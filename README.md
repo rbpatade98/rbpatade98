@@ -79,8 +79,8 @@ Currently, I'm working as a **Software Developer** at **TechStalwarts Software D
 
 ## 🎓 Education
 
-| Qualification                             | Institute                                                                     | Year | CGPA |
-| ----------------------------------------- | ----------------------------------------------------------------------------- | ---- | ---- |
+| Qualification                             | Institute                                                                     | Year |
+| ----------------------------------------- | ----------------------------------------------------------------------------- | ---- |
 | **Master of Computer Applications (MCA)** | Thakur Institute of Management Studies, Career Development & Research, Mumbai | 2022 |
 
 ---
