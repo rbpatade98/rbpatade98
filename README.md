@@ -77,47 +77,11 @@ Currently, I'm working as a **Software Developer** at **TechStalwarts Software D
 
 </div>
 
----
-
-## 💼 Professional Experience
-
-### 🚀 Software Developer – TechStalwarts Software Development LLP
-
-**Jan 2026 – Present** | Mumbai, India
-
-- 💎 Developing modern, responsive UIs using **React.js** & **Material UI**
-- 🏗️ Implementing reusable **component-based architecture** for scalable applications
-- 🔗 Integrating **REST APIs** and handling asynchronous data efficiently
-- 📊 Managing application state using **Redux** and React hooks
-- ⚡ Optimizing performance and ensuring scalability across projects
-- 🎨 Collaborating with design and backend teams for seamless integration
-
-### 📚 Full Stack Developer Intern – Vibgyor Advicorp Pvt Ltd
-
-**Apr 2025 – Jun 2025** | Mumbai, India
-
-- 🛠️ Developed **Django-based HRMS system** with multiple modules
-- 📦 Built modules: **Department**, **Role**, **Employee**, **Task**, **Leave Management**
-- 🎨 Created responsive UI using **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap**
-- 🗄️ Managed backend logic using **Django ORM** and **MySQL** database
-- ✅ Implemented form validation and error handling
-
-### 🤖 RPA Developer – STEP One Step Ahead LLP
-
-**Aug 2025 – Dec 2025** | Mumbai, India
-
-- 🔧 Built **automation workflows** using **UiPath Studio**
-- 🕷️ Implemented **web scraping** and **automation bots** for data handling
-- ⚙️ Optimized exception handling and error management
-- 📈 Improved process efficiency through intelligent automation
-
----
-
 ## 🎓 Education
 
-| Qualification                             | Institute                                                                     | Year | CGPA    |
-| ----------------------------------------- | ----------------------------------------------------------------------------- | ---- | ------- |
-| **Master of Computer Applications (MCA)** | Thakur Institute of Management Studies, Career Development & Research, Mumbai | 2022 | **7.7** |
+| Qualification                             | Institute                                                                     | Year | CGPA |
+| ----------------------------------------- | ----------------------------------------------------------------------------- | ---- | ---- |
+| **Master of Computer Applications (MCA)** | Thakur Institute of Management Studies, Career Development & Research, Mumbai | 2022 |
 
 ---
 
@@ -134,36 +98,6 @@ Currently, I'm working as a **Software Developer** at **TechStalwarts Software D
 | 🤖 **RPA Developer Foundation**            | UiPath         | 2025      |
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 FilmLane – Video Streaming Platform
-
-**Django | MySQL | Bootstrap | JavaScript**
-
-A **Netflix-inspired video streaming platform** with modern UI and robust backend.
-
-**Key Features:**
-
-- 🔐 User authentication system (registration, login, password reset)
-- 🎥 Categorized movie browsing and search functionality
-- ⭐ Rating and review system
-- 📱 Fully responsive design
-- 💾 Efficient database management with **Django ORM**
-
-**Tech Stack:** Django, MySQL, Bootstrap, HTML5, CSS3, JavaScript
-
-**[View Project](#)** | **[GitHub Repository](#)**
-
----
-
-### More Projects Coming Soon!
-
-I'm constantly building new and exciting projects. Stay tuned! 🔄
-
----
 
 ## 📊 GitHub Stats
 
