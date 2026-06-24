@@ -1,4 +1,4 @@
-```html
+
 <!-- Animated Introduction -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Ramchandra+Patade;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django;Building+Scalable+%26+Modern+Web+Applications" alt="Typing SVG" />
@@ -35,7 +35,6 @@
 </div>
 
 ---
-```
 
 
 ## 👨‍💻 About Me
