@@ -1,29 +1,42 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B+I'm+Ramchandra+Patade;Full+Stack+Developer;React+%26+Django+Enthusiast" alt="Typing SVG" /></a>
+```html
+<!-- Animated Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Ramchandra+Patade;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django;Building+Scalable+%26+Modern+Web+Applications" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+web+applications+with+React+%26+Django;Passionate+about+clean+code+%26+user-centric+design;Let's+create+something+amazing+together!)](https://github.com/rbpatade98)
 
-  <p>
-    <a href="https://linkedin.com/in/ramchandra-patade" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rbpatade98@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/rbpatade98" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="tel:+919004571431">
-      <img src="https://img.shields.io/badge/Phone-%2300D9FF.svg?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-    </a>
-  </p>
+### 🚀 Full Stack Developer | MCA Graduate | Problem Solver
 
-  <img src="https://komarev.com/ghpvc/?username=rbpatade98&style=flat-square&color=00D9FF" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=45&lines=Passionate+about+creating+high-performance+web+applications;Experienced+in+React%2C+JavaScript%2C+Node.js%2C+Django+%26+MySQL;Focused+on+Clean+Code%2C+Scalable+Architecture+%26+Great+UX;Always+Learning+and+Building+Innovative+Solutions" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/ramchandra-patade" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rbpatade98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/rbpatade98" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://my-portfolio-blue-nu-51.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rbpatade98&label=Profile+Views&color=00D9FF&style=for-the-badge" />
 
 </div>
 
 ---
+```
+
 
 ## 👨‍💻 About Me
 
